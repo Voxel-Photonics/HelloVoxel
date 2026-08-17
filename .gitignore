@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+hellovoxel.json
+
+# Internal dev/tracking files — kept local, not published
+CLAUDE.md
+functional_specification.md
+feedback.md
+template-files.txt
